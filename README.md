@@ -1,6 +1,8 @@
 # Mini Python Projects
 
-This repository contains a collection of mini Python projects that I have developed for practicing and improving my Python skills. The purpose of this README file is to serve as a documentation for all these projects without explicitly mentioning their names. Instead, it will provide an overview of the different areas I have explored during my Python learning journey.
+This repository contains a collection of over 100 mini Python projects that I have developed for practicing and improving my Python skills. These projects are designed in increasing order of difficulty, starting from easy ones and gradually progressing towards more challenging ones.
+
+The purpose of this README file is to serve as documentation for all these projects without explicitly mentioning their names. Instead, it will provide an overview of the different areas I have explored during my Python learning journey.
 
 ## Skills Acquired
 
